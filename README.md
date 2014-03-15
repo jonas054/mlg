@@ -1,4 +1,4 @@
 mlg
 ===
 
-Multi-line grep utility implemented n C++
+Multi-line grep utility implemented in C++
